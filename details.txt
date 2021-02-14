@@ -1,0 +1,12 @@
+client id: 
+public key: 
+client secret: 
+bot permissions; 66583360
+TOKEN: 
+
+
+To activate your bot on the server(s) you wish, replace <CLIENT_ID> with the client id you
+copied above, here on this URL.  Then load this URL within a browser:
+
+https://discordapp.com/oauth2/authorize?client_id=<CLIENT_ID>&scope=bot&permissions=0 
+
